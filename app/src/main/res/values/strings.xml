@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentYapisi</string>
+    <string name="alfanumeric">Sadece alfa-numerik karakter giriniz.</string>
+</resources>
