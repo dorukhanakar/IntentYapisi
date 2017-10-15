@@ -67,7 +67,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="20dp"
-        android:text="Explicit (Açık) İntent Örneği"
+        android:text="Explicit (Açık) Intent Örneği"
         android:textAlignment="center"
         android:textSize="15sp" />
 
